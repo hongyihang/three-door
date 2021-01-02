@@ -1,2 +1,2 @@
-# three-door
+# three-doors
 three doors program code
